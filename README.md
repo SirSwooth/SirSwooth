@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SirSwooth
 - 👀 I’m interested in ... vidja games
 - 🌱 I’m currently learning ... computer science
-- 💞️ I’m looking to collaborate on ... something I can be useful for
-- 📫 How to reach me ... probably with a phone
+- 📫 How to reach me ... gamer.brady2002@gmail.com
 
 <!---
 SirSwooth/SirSwooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
